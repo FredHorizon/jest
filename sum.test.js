@@ -1,6 +1,8 @@
 'use strict'
 
-it('UM é igual a 1', () => {
-  // console.assert(1 === 2, '1 é diferente de 2')
-  expect(1).toBe(2)
+const expect = require('chai').expect
+const sum = require('./sum')
+
+it('sum deve ser uma função', () => {
+  expect(sum).to.be.a('function')
 })
