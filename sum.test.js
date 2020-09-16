@@ -1,8 +1,7 @@
-'use strict'
 
 import { expect } from 'chai'
 import sum from './sum'
 
-it('sum deve ser uma função', () => {
+it('sum should be a function', () => {
   expect(sum).to.be.a('function')
 })
