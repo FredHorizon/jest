@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1600299940672" clover="3.2.0">
-  <project timestamp="1600299940672" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1600357281506" clover="3.2.0">
+  <project timestamp="1600357281507" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="4" coveredelements="4" complexity="0" loc="2" ncloc="2" packages="1" files="2" classes="2">
+      <file name="div.js" path="/mnt/c/Users/LenovoES/Documents/projetos/projetosReactJS/jestTest/div.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/mnt/c/Users/LenovoES/Documents/projetos/projetosReactJS/jestTest/sum.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </metrics>
   </project>
 </coverage>
